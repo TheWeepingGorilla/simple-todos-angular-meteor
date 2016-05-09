@@ -1,0 +1,1 @@
+#Simple To-do list in angular + meteor, with tests. From https://www.meteor.com/tutorials/angular/creating-an-app
